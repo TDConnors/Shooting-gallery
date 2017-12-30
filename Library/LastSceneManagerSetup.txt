@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/Shooting Gallery Final.unity
+  isLoaded: 1
+  isActive: 1
